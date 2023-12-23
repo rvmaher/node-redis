@@ -1,0 +1,19 @@
+{
+  "name": "redis",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  },
+  "scripts": {
+    "start": "nodemon index"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "redis": "^4.6.12"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
